@@ -1,0 +1,22 @@
+{
+  "name": "@ejmdev/fetchservice",
+  "version": "1.0.0",
+  "description": "Fetch utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:emoran0403/fetch_service.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "https://github.com/emoran0403",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emoran0403/fetch_service/issues"
+  },
+  "homepage": "https://github.com/emoran0403/fetch_service#readme"
+}
